@@ -2,10 +2,10 @@
 Functions Review:
 - Code that does stuff
 - Simpler and reusable
-'
+
 def square(x):
     return x*x
-'
+
 
 Getting character indicies
 # Get the first n letters
