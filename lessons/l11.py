@@ -10,6 +10,6 @@ and if statements to determine which operation the user selects
 a = input("n0: ")
 b = input("n1: ")
 def sum(x, y):
-    return x+y 
+    return int(x)+int(y) 
 
 print(sum(a, b))
