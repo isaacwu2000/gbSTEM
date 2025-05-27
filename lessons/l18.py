@@ -2,7 +2,7 @@
 grid = [
     [1, 1, 1],
     [1, 2, 3],
-    [5, 3, 6],
+    [5, 3, 6]
 ]
 
 # Nested loops
@@ -16,7 +16,7 @@ make a new array that combines the two lists into
 [a1, b2, c3, d4]
 and prints the result
 ]
-
+-------
 Calculate the grade average of a students exam grades, which are divided into 4 quarters.
 Example input:
 student_grades = [
